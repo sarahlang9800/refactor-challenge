@@ -1,4 +1,4 @@
-# refactor-challenge
+# refactor-horiseon
 
 As a user, I want a quality website that meets accessibility standards so that it is optimized for search engines.
 
@@ -20,5 +20,13 @@ THEN I find a concise, descriptive title
 ## Live URL
 https://sarahlang9800.github.io/refactor-challenge/
 
+## Link to Code
+https://github.com/sarahlang9800/refactor-challenge
+
 ## Example Photo 
 ![Seo Website Example Picture](./assets/images/seo-website-img.png)
+
+## Discription 
+* Cleaned up CSS by combining repetative code. 
+* Fixed link in header so when clicked on it will dirict you to the respective article.
+* Added comments in HTML and CSS.
