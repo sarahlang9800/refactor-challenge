@@ -1,6 +1,6 @@
 # refactor-challenge
 
-* As a user, I want a quality website that meets accessibility standards so that it is optimized for search engines.
+As a user, I want a quality website that meets accessibility standards so that it is optimized for search engines.
 
 ## Acceptance Criteria 
 ```
@@ -21,4 +21,4 @@ THEN I find a concise, descriptive title
 https://sarahlang9800.github.io/refactor-challenge/
 
 ## Example Photo 
-![Seo Website Example Picture](imgs/seo-website-img.png)
+![Seo Website Example Picture](./assets/images/seo-website-img.png)
